@@ -9,4 +9,4 @@
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I'm a middle school student!
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MapMaths&count_private=true&show_icons=true&count_private=true&title_color=444444&text_color=eeeeee&icon_color=0000ff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MapMaths&count_private=true&show_icons=true&count_private=true&title_color=444444&text_color=0000ee&icon_color=0000ff)
