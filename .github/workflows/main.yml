@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: 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
 
           # Options
           user: MapMaths
